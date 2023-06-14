@@ -17,3 +17,11 @@
 .header a:hover{
     color: orange;
 }
+.btn-logout{
+    margin-left: 10px;
+}
+
+.display_email{
+    margin-left: 10px;
+    color: blue;
+}
